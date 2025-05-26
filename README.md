@@ -1,15 +1,15 @@
 # Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning
 
-Official codebase for [EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning](https://arxiv.org/abs/2502.12486)
+## :tada:News
+- [2025.05.16] Our paper has been accepted by ACL 2025 main.
+- [2025.02.18] Release our paper on arXiv. See [here](https://arxiv.org/abs/2502.12486).
 
-We introduce **EPO**, an explicit policy optimization method for advancing strategic reasoning in LLMs, where an RL-driven reasoning model can be plugged into arbitrary LLM agents to incentivize goal-directed behavior in dynamic environments.
-
-
-## Method
+## :clipboard:Introduction
 
 ![image](./architecture.png)
+We introduce **EPO**, an explicit policy optimization method for advancing strategic reasoning in LLMs, where an RL-driven reasoning model can be plugged into arbitrary LLM agents to incentivize goal-directed behavior in dynamic environments.
 
-## Getting Started
+## :sparkles:Getting Started
 
 Currently, we provide the following code of EPO, you can find more details in each directory.
 
@@ -54,7 +54,7 @@ python -m eval_agent.main --thought_agent_config fastchat --thought_model_name <
 ```
 
 
-## Citation
+## :balloon:Citation
 
 Please cite our paper as:
 
