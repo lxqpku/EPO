@@ -16,12 +16,12 @@ pip install -e.
 Take Sotopia as an example, the process of constructing training data for RL is as follows:
 ```bash
 1. Collect strategy and dialogue data from sotopia_pi
-2. cd data_utils/utils
+2. cd data_new/utils
 2. python prm.py
 3. python preprocessing.py
 ```
 
-After constructing the training dataset for RL, please **make sure** to add a *dataset description* in `data_utils/dataset_info.json`, specify `dataset: dataset_name` and put `dataset_info.json` in the `data` directory before training to use it.
+After constructing the training dataset for RL, please **make sure** to add a *dataset description* in `data_new/dataset_info.json`, specify `dataset: dataset_name` and put `dataset_info.json` in the `data` directory before training to use it.
 
 ### Data format
 
