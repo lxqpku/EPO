@@ -21,7 +21,7 @@ Currently, we provide the following code of EPO, you can find more details in ea
 ```bash
 conda create -n epo python==3.10
 conda activate epo
-git clone hhttps://github.com/AlibabaResearch/DAMO-ConvAI.git
+git clone https://github.com/lxqpku/EPO.git
 cd EPO
 ```
 Then install the dependencies for training and evaluation, respectively. Please follow the instructions in the README in each directory.
