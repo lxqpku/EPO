@@ -1,7 +1,7 @@
 # Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning
 
 ## :tada:News
-- [2025.05.16] Our paper has been accepted by ACL 2025 main.
+- [2025.05.16] Our paper has been accepted by ACL Main 2025.
 - [2025.02.18] Release our paper on arXiv. See [here](https://arxiv.org/abs/2502.12486).
 
 ## :clipboard:Introduction
