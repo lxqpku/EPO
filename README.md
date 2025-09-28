@@ -59,10 +59,29 @@ python -m eval_agent.main --thought_agent_config fastchat --thought_model_name <
 Please cite our paper as:
 
 ```bash
-@article{liu2025epo,
-  title={EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning},
-  author={Liu, Xiaoqian and Wang, Ke and Li, Yongbin and Wu, Yuchuan and Ma, Wentao and Kong, Aobo and Huang, Fei and Jiao, Jianbin and Zhang, Junge},
-  journal={arXiv preprint arXiv:2502.12486},
-  year={2025}
+@inproceedings{liu-etal-2025-epo,
+    title = "{EPO}: Explicit Policy Optimization for Strategic Reasoning in {LLM}s via Reinforcement Learning",
+    author = "Liu, Xiaoqian  and
+      Wang, Ke  and
+      Li, Yongbin  and
+      Wu, Yuchuan  and
+      Ma, Wentao  and
+      Kong, Aobo  and
+      Huang, Fei  and
+      Jiao, Jianbin  and
+      Zhang, Junge",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.747/",
+    doi = "10.18653/v1/2025.acl-long.747",
+    pages = "15371--15396",
+    ISBN = "979-8-89176-251-0"
 }
 ``` 
